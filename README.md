@@ -1,4 +1,4 @@
-<img src="./pict.png" height="60" width="60" >
+<img src="./pict.png">
 
 # Getting Started with Create React App
 
